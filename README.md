@@ -51,11 +51,6 @@
 - **Meezan Bank**: Led nationwide rollout of the Centralized Account Opening module on Temenos T24
 - **Wavetec**: Android signage and kiosk apps backed by a Node.js content-scheduling service
 
-## 📊 GitHub stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=aneebian&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aneebian&layout=compact&hide_border=true)
-
 ## 📚 Always learning
 
 Flutter & Dart · Agile delivery · AI-assisted development with Cursor and MCP
